@@ -1,6 +1,6 @@
-# PHPNuxBill - PHP Mikrotik Billing
+# WIFI X HORA - PHP Mikrotik Billing
 
-![PHPNuxBill](install/img/logo.png)
+![WIFI X HORA](install/img/logo.png)
 
 ## Feature
 
@@ -26,7 +26,7 @@ You can download payment gateway and Plugin from Plugin Manager
 
 ## System Requirements
 
-Most current web servers with PHP & MySQL installed will be capable of running PHPNuxBill
+Most current web servers with PHP & MySQL installed will be capable of running WIFI X HORA
 
 Minimum Requirements
 
